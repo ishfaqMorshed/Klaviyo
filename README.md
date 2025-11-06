@@ -71,7 +71,7 @@ The email sequence includes a combination of exclusive offers, social proof, and
 ## Automation Flow Structure 🛠️
 
 ![Email Automation Flow 1](https://drive.google.com/uc?id=1Ee6BAiQd4ptWWYgmRZFI5O_r-KHUNytu)
-![Email Automation Flow 2](https://drive.google.com/uc?id=1Ee6BAiQd4ptWWYgmRZFI5O_r-KHUNytu)
+![Email Automation Flow 2](https://drive.google.com/uc?id=12v5b02a3_fx9_HdCggwNwYflPGWIeeAQ)
 
 This diagram illustrates the email funnel sequence with conditional logic for optimal engagement. 🧠
 
